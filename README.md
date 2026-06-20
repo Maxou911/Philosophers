@@ -132,7 +132,7 @@ valgrind --tool=helgrind ./philo 4 410 200 200
 
 ## 👤 Author
 
-**your_login** — [42 Profile](https://profile.intra.42.fr/)
+| Your Name | [@Maxou911](https://github.com/Maxou911) |
 
 ---
 
