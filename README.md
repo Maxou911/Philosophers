@@ -132,6 +132,8 @@ valgrind --tool=helgrind ./philo 4 410 200 200
 
 ## 👤 Author
 
+| Name | GitHub |
+|------|--------|
 | Your Name | [@Maxou911](https://github.com/Maxou911) |
 
 ---
